@@ -20,6 +20,9 @@
     
     self.view.backgroundColor = [UIColor lightGrayColor];
     
+    int a = 3<<2;
+    NSLog(@"%d",a);
+    
     
 }
 
